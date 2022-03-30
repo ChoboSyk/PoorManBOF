@@ -1,0 +1,2 @@
+# PoorManBOF
+Generating useful shellcode has always felt like magic to me. This frameworks goal is to help generate position independent shellcode from C code for WinAPIs stuff. Specify the WinAPIs you need and itll generate a nice project for you. Use the generated functions and than run ./build.sh to get a shellcode.bin file. I also added some methods to you can return values from the shellcode for enumeration and stuff. Ill add more details later
