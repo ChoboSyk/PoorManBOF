@@ -1,0 +1,8 @@
+{
+"name": "",
+"return_type": "",
+"dll":"",
+"arguments":[{"type":""},{"type":""]
+}
+
+Just copy that in one if it matches the WinAPI you want to import inside one of the json files inside api_by_category. Most are already there but theres some fuckers missing
